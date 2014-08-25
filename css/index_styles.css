@@ -149,13 +149,16 @@ navbar-custom .navbar-header a:focus{
     float:right;
     display: inline-block;
     margin-right: 70px;
+    margin-bottom: 25px;
+    position: relative;
+    top:-50px;
     /**margin-top: -10px; **/
 }
 
 #header-titles h1,h2{
     font-family: Raleway;
     color: #37403f;
-    font-size: 24px; 
+    font-size: 23px; 
     font-weight: 400;
     width: 389px;
     height: 10px;
@@ -482,6 +485,10 @@ span.text-content:hover {
     }
     .carousel{
         width:100%;
+    }
+    #header-titles{
+        top: 0px;
+        left:-8%;
     }
 }  
 
