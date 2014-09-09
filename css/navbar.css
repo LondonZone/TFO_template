@@ -229,7 +229,7 @@ footer {
 footer a {
     color: #ffffff;
 }
-footer a:hover {
+#custom-column li a:hover {
     color: #8bc5eb;
     padding: 0 0 0 5px;
     text-decoration: none;
@@ -4035,6 +4035,7 @@ textarea.input-group-sm > .form-control, textarea.input-group-sm > .input-group-
 }
 .navbar-nav.navbar-right:last-child {
     margin-right: -15px;
+    padding-right: .5%
 }
 .navbar-nav.navbar-right > li > a.btn-navbar-transparent {
     background-color: rgba(255, 255, 255, 0.25);
