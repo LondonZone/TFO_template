@@ -23,9 +23,9 @@ body {
     margin: 0;
     position: relative;
 }
-a {
+/*a {
     background: none repeat scroll 0 0 transparent;
-    transition: all 0.2s linear 0s;
+    transition: all 0.2s linear 0s;*/
 }
 a:focus {
     outline: thin dotted;
@@ -332,12 +332,12 @@ hr {
     position: absolute;
     width: 1px;
 }
-h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+/*h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     color: inherit;
     font-family: "Gotham Rounded Book","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 500;
     line-height: 1.2;
-    margin-left: -1px;
+    margin-left: -1px;*/
 }
 h1 small, h2 small, h3 small, h4 small, h5 small, h6 small, .h1 small, .h2 small, .h3 small, .h4 small, .h5 small, .h6 small, h1 .small, h2 .small, h3 .small, h4 .small, h5 .small, h6 .small, .h1 .small, .h2 .small, .h3 .small, .h4 .small, .h5 .small, .h6 .small {
     color: inherit;
@@ -358,7 +358,7 @@ h4, h5, h6 {
 h4 small, h5 small, h6 small, h4 .small, h5 .small, h6 .small {
     font-size: 75%;
 }
-h1, .h1 {
+/*h1, .h1 {
     font-size: 36px;
 }
 h2, .h2 {
@@ -378,7 +378,7 @@ h6, .h6 {
 }
 p {
     margin: 0 0 15px;
-}
+}*/
 .lead {
     font-size: 16px;
     font-weight: 200;
